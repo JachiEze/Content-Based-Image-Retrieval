@@ -1,2 +1,2 @@
-# Barcode-Generator
-This is a python program that helps to convert images to barcodes and search for them.
+# Content Based Image Retrieveal
+This is a python program for a content-based image retrieval system using the Radon transform
